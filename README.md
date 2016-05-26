@@ -16,7 +16,7 @@ Enlaces a los perfiles de GitHub de los alumnos del Ciclo Superior de **Desarrol
 * [Gómez Cerezo, Manuel](https://github.com/ManuelGomezCerezo)
 * [González Rojo, Rafael](https://github.com/RafaelGonzalezRojo)
 * [Holgado Infante, Antonia Ana](https://github.com/AnaHolgado)
-* Jiménez Campillo, Samuel
+* [Jiménez Campillo, Samuel](https://github.com/SamuelJimenezCampillo)
 * [Marulanda Peña, Nicolás](https://github.com/nmarulo)
 * [Mayo Mayo, José Antonio](https://github.com/jamayo)
 * Moreno León, Joaquín
