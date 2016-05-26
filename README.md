@@ -10,11 +10,11 @@ Enlaces a los perfiles de GitHub de los alumnos del Ciclo Superior de **Desarrol
 * [Caballero Corpas, Jesús](https://github.com/JesusCaballeroCorpas)
 * [Calvente Martínez, Luis](https://github.com/CMLuis)
 * Contreras Román, Antonio
-* Cuenca Muros, Rafael
-* Domínguez García, María Belén
-* Fernández Romero, Juan José
-* García Castillo, Julián
-* Gómez Cerezo, Manuel
+* [Cuenca Muros, Rafael](https://github.com/RafaelCuencaMuros)
+* [Domínguez García, María Belén](https://github.com/nelbe)
+* [Fernández Romero, Juan José](https://github.com/piscisferro)
+* [García Castillo, Julián](https://github.com/JulianGarciaCastillo)
+* [Gómez Cerezo, Manuel](https://github.com/ManuelGomezCerezo)
 * Gómez Miranda, Francisco José
 * González Rojo, Rafael
 * Holgado Infante, Antonia Ana
