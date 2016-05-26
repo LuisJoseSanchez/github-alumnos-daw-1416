@@ -2,7 +2,6 @@
 
 Enlaces a los perfiles de GitHub de los alumnos del Ciclo Superior de **Desarrollo de Aplicaciones Web** del **IES Campanillas** de la **promoción 2015 - 2017**.
 
-* Agüera Jiménez, Alejandro José
 * [Akel, Jihane](https://github.com/jihaneAkel)
 * [Aragón De los Reyes, José Carlos](https://github.com/AragonDeLosReyes)
 * [Aragón Mora, Alberto](https://github.com/AlbertoAragon)
@@ -27,8 +26,8 @@ Enlaces a los perfiles de GitHub de los alumnos del Ciclo Superior de **Desarrol
 * [Ramírez Parras, Juan Antonio](https://github.com/JARamirezP)
 * [Reyes Martínez, Víctor](https://github.com/VictorReyesM)
 * Ríos Domínguez, José Rubén
-* Rodríguez Díaz, Alberto
-* Roviralta Terrón, Javier Víctor
-* Rueda Sánchez, Adolfina
-* Salazar López, Rafael
+* [Rodríguez Díaz, Alberto](https://github.com/AlbertoRD)
+* [Roviralta Terrón, Javier Víctor](https://github.com/JavierRoviraltaTerron)
+* [Rueda Sánchez, Adolfina](https://github.com/AdolfinaRS)
+* [Salazar López, Rafael](https://github.com/RafaelSalazarLopez)
 * Valenzuela Asensio, Esaú
