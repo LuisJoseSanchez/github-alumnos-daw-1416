@@ -18,16 +18,11 @@ Enlaces a los perfiles de GitHub de los alumnos del Ciclo Superior de **Desarrol
 * [González Rojo, Rafael](https://github.com/RafaelGonzalezRojo)
 * [Holgado Infante, Antonia Ana](https://github.com/AnaHolgado)
 * Jiménez Campillo, Samuel
-* Lara García, Daniel
-* Martín González, Manuel
-* Marulanda Peña, Nicolás
-* Mayo Mayo, José Antonio
+* [Marulanda Peña, Nicolás](https://github.com/nmarulo)
+* [Mayo Mayo, José Antonio](https://github.com/jamayo)
 * Moreno León, Joaquín
-* Moreno Montiel, Jesús
-* Moya Heredia, Salvador
-* Naranjo Cabrera, Juan José
-* Padilla Naranjo, Pablo
-* Pastor Rueda, Daniel
+* [Moreno Montiel, Jesús](https://github.com/JesusMorenoMontiel)
+* [Pastor Rueda, Daniel](https://github.com/DanielPastorRueda)
 * Planas Guerrero, Alfonso
 * Ramírez Parras, Juan Antonio
 * Reyes Martínez, Víctor
