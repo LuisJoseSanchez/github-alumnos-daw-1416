@@ -8,8 +8,7 @@ Enlaces a los perfiles de GitHub de los alumnos del Ciclo Superior de **Desarrol
 * Aragón Mora, Alberto
 * [Barroso Del Río, Ángel](https://github.com/AngelBarrosoDelRio)
 * [Caballero Corpas, Jesús](https://github.com/JesusCaballeroCorpas)
-* Calahorro Jiménez, Miguel
-* Calvente Martínez, Luis
+* [Calvente Martínez, Luis](https://github.com/CMLuis)
 * Contreras Román, Antonio
 * Cuenca Muros, Rafael
 * Domínguez García, María Belén
