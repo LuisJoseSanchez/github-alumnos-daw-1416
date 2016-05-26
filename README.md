@@ -23,9 +23,9 @@ Enlaces a los perfiles de GitHub de los alumnos del Ciclo Superior de **Desarrol
 * Moreno León, Joaquín
 * [Moreno Montiel, Jesús](https://github.com/JesusMorenoMontiel)
 * [Pastor Rueda, Daniel](https://github.com/DanielPastorRueda)
-* Planas Guerrero, Alfonso
-* Ramírez Parras, Juan Antonio
-* Reyes Martínez, Víctor
+* [Planas Guerrero, Alfonso](https://github.com/Alfonsopl)
+* [Ramírez Parras, Juan Antonio](https://github.com/JARamirezP)
+* [Reyes Martínez, Víctor](https://github.com/VictorReyesM)
 * Ríos Domínguez, José Rubén
 * Rodríguez Díaz, Alberto
 * Roviralta Terrón, Javier Víctor
