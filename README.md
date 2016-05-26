@@ -5,11 +5,11 @@ Enlaces a los perfiles de GitHub de los alumnos del Ciclo Superior de **Desarrol
 * Agüera Jiménez, Alejandro José
 * [Akel, Jihane](https://github.com/jihaneAkel)
 * [Aragón De los Reyes, José Carlos](https://github.com/AragonDeLosReyes)
-* Aragón Mora, Alberto
+* [Aragón Mora, Alberto](https://github.com/AlbertoAragon)
 * [Barroso Del Río, Ángel](https://github.com/AngelBarrosoDelRio)
 * [Caballero Corpas, Jesús](https://github.com/JesusCaballeroCorpas)
 * [Calvente Martínez, Luis](https://github.com/CMLuis)
-* Contreras Román, Antonio
+* [Contreras Román, Antonio](https://github.com/antonio06)
 * [Cuenca Muros, Rafael](https://github.com/RafaelCuencaMuros)
 * [Domínguez García, María Belén](https://github.com/nelbe)
 * [Fernández Romero, Juan José](https://github.com/piscisferro)
