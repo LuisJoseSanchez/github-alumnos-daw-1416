@@ -21,7 +21,7 @@ Enlaces a los perfiles de GitHub de los alumnos del Ciclo Superior de **Desarrol
 * [Mayo Mayo, José Antonio](https://github.com/jamayo)
 * Moreno León, Joaquín
 * [Moreno Montiel, Jesús](https://github.com/JesusMorenoMontiel)
-* [Naranjo Cabrera, Juan José]
+* [Naranjo Cabrera, Juan José](https://github.com/JuanjoNC)
 * [Pastor Rueda, Daniel](https://github.com/DanielPastorRueda)
 * [Planas Guerrero, Alfonso](https://github.com/Alfonsopl)
 * [Ramírez Parras, Juan Antonio](https://github.com/JARamirezP)
