@@ -14,6 +14,7 @@ Enlaces a los perfiles de GitHub de los alumnos del Ciclo Superior de **Desarrol
 * [Fernández Romero, Juan José](https://github.com/piscisferro)
 * [García Castillo, Julián](https://github.com/JulianGarciaCastillo)
 * [Gómez Cerezo, Manuel](https://github.com/ManuelGomezCerezo)
+* Gómez Miranda, Francisco
 * [González Rojo, Rafael](https://github.com/RafaelGonzalezRojo)
 * [Holgado Infante, Antonia Ana](https://github.com/AnaHolgado)
 * [Jiménez Campillo, Samuel](https://github.com/SamuelJimenezCampillo)
